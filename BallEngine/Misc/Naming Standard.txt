@@ -1,0 +1,6 @@
+Class names: Words with capital strating letter and separated by underscores (Basic datatypes like Vector2i are are exceptions)
+Member variables: Words with capital strating letter and not separated
+Functions: all words depicting action are lowercase and other starts with capital letters, separated words with underscore (process_delta() is exception) 
+Functions with other names: lowercase words and separated (Main() is exception)
+Function variables: lowercase separated words
+Global variables: like member variables
