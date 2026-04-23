@@ -2,7 +2,7 @@
 
 ## My second major project. An unfinished one.
 
-So it is technically a game making framework created on SDL2 and SDL GPU. Its purpose is to be exported as .lib and included onto other project.
+So it is technically a framework for making games created on SDL2 and SDL GPU. Its purpose is to be exported as .lib and included onto other project.
 
 
 ### Latest version is a rewrite that lacks some of the functionality of the original
