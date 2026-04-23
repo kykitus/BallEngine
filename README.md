@@ -5,7 +5,7 @@
 So it is technically a game making framework created on SDL2 and SDL GPU.
 
 
-### Second version is a rewrite take, that lacks some of the functionality of the original
+### Latest version is a rewrite that lacks some of the functionality of the original
 
 both have:
 - an entire update/render scalable system represented in a set of multipurpose layers.
