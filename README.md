@@ -14,10 +14,10 @@ both have:
 - an asset repository for enabling easy reuse of any already loaded asset on working application.
 
 and original had:
-- Working tile map with collision and actually working optimisation algorithm for it
-- Mostly working text rendering
-- Try on making events
-- Object - Component system (the greatest cause of convincing me to make a rewrite)
+- Working tile map with collision and actually working optimisation algorithm for it.
+- Mostly working text rendering.
+- Try on making events.
+- Object - Component system (the greatest cause of convincing me to make a rewrite).
 - not really complicated input, with some foundations made for making them editable in the terms of things like input cooldown, lag, or continuity.
 - Cursor system - everything with onclick handling is definetely a cursor object, but not every cursor needs to have it.
 
