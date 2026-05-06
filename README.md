@@ -8,7 +8,7 @@ So it is technically a framework for making games created on SDL2 and SDL GPU. I
 ### Latest version is a rewrite that lacks some of the functionality of the original
 
 Both have:
-- entire update/render scalable system represented in a set of multipurpose layers.
+- entire update/render layer scalable system represented in a set of multipurpose layers.
 - collision system built upon code system of [this guy](https://noonat.github.io/intersect/) with unfinished idea to extend it over every case possible.
 - actually really funcitonal Spatial Hash Map for collision optimisation.
 - asset repository for enabling easy reuse of any already loaded asset on working application.
